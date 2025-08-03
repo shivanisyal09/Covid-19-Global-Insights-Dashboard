@@ -87,4 +87,4 @@ This dashboard empowers stakeholders to answer critical questions about the pand
 ## 📸 Screenshots / Demos
 Explore the dashboard's interactive pages and their powerful visualizations:
 
-* [Global Overview Screenshot](https://github.com/shivanisyal09/Covid-19-Global-Insights-Dashboard/blob/main/image_355920.png)
+* [Global Overview Screenshot](https://github.com/shivanisyal09/Covid-19-Global-Insights-Dashboard/blob/main/Global_Overview.png)
